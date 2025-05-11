@@ -1,1 +1,1 @@
-web: scrapy crawl kallofem
+worker: scrapy crawl kallofem
